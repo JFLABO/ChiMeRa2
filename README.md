@@ -11,3 +11,5 @@ https://www.gitkraken.com/download/linux-deb
 
 話す内容を整理して、アンケートを取る
 集計するアプリはpythonで作成する
+
+Docker
