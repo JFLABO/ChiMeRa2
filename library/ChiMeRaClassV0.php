@@ -1,8 +1,8 @@
 <?php
 /**
  * ChiMeRaの関数群 試作　第1版　(Alpha-01)
- * [Framework MicroCode] @Cafe around Tokyo Skytree
- * @link       http://pjfs.biz
+ * [Framework MicroCode] @Cafe around Tokyo Skytree 2019
+ * @link       http://jflabo.org
  *
  * @category   internet_system
  * @package    JFLABO
@@ -20,6 +20,7 @@
  * @copyright  JFLABO  Tokitaka Abe
  * @license    JFLABO  License Ver. 3.0
  * @version    a-0.3.7
+ * GitKraken Thank You!!
  */
 class ChiMeRa_emacs_class{
 		//分かりやすさ重視でwebディレクトリにdataファイルを置いてありますが
